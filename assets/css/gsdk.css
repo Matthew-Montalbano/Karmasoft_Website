@@ -1603,6 +1603,11 @@ input.ct-red + span + label + span.switch-right {
   background: linear-gradient(#459fb5, #88c1d0,#ffffff);
 }
 
+.divider {
+  margin-left: -20px;
+  margin-right: -20px;
+}
+
 /*      Checkbox and radio         */
 .checkbox,
 .radio {
@@ -2238,47 +2243,47 @@ input.ct-red + span + label + span.switch-right {
   background-color: #F5F5F5;
 }
 
-.footer-black,
+.footer-blue,
 .footer-transparent,
 .subscribe-line-transparent {
   background-color: rgb(25, 194, 212);
   color: #DDDDDD;
 }
-.footer-black nav > ul a,
+.footer-blue nav > ul a,
 .footer-transparent nav > ul a,
 .subscribe-line-transparent nav > ul a {
   color: #FFFFFF;
 }
-.footer-black nav > ul a:hover, .footer-black nav > ul a:focus,
+.footer-blue nav > ul a:hover, .footer-blue nav > ul a:focus,
 .footer-transparent nav > ul a:hover,
 .subscribe-line-transparent nav > ul a:hover,
 .footer-transparent nav > ul a:focus,
 .subscribe-line-transparent nav > ul a:focus {
   color: #9A9A9A;
 }
-.footer-black .social-area > a:not(.btn),
+.footer-blue .social-area > a:not(.btn),
 .footer-transparent .social-area > a:not(.btn),
 .subscribe-line-transparent .social-area > a:not(.btn) {
   color: #FFFFFF;
 }
-.footer-black .social-area > a:not(.btn):hover, .footer-black .social-area > a:not(.btn):focus,
+.footer-blue .social-area > a:not(.btn):hover, .footer-blue .social-area > a:not(.btn):focus,
 .footer-transparent .social-area > a:not(.btn):hover,
 .subscribe-line-transparent .social-area > a:not(.btn):hover,
 .footer-transparent .social-area > a:not(.btn):focus,
 .subscribe-line-transparent .social-area > a:not(.btn):focus {
   color: #9A9A9A;
 }
-.footer-black .btn-social,
+.footer-blue .btn-social,
 .footer-transparent .btn-social,
 .subscribe-line-transparent .btn-social {
   color: #FFFFFF;
 }
-.footer-black hr,
+.footer-blue hr,
 .footer-transparent hr,
 .subscribe-line-transparent hr {
   border-color: #19c2d4;
 }
-.footer-black .title,
+.footer-blue .title,
 .footer-transparent .title,
 .subscribe-line-transparent .title {
   color: #000000;
